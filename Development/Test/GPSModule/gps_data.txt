@@ -1,0 +1,6 @@
+15:11:36  R -> NMEA GPGLL,  Size  20,  'Geographic Position - Latitude/Longitude'
+15:11:36  R -> NMEA GPRMC,  Size  25,  'Recommended Minimum Specific GNSS Data'
+15:11:36  R -> NMEA GPVTG,  Size  21,  'Course Over Ground and Ground Speed'
+15:11:36  R -> NMEA GPGGA,  Size  33,  'Global Positioning System Fix Data'
+15:11:36  R -> NMEA GPGSA,  Size  45,  'GNSS DOP and Active Satellites'
+15:11:36  R -> NMEA GPGSV,  Size  26,  'GNSS Satellites in View'

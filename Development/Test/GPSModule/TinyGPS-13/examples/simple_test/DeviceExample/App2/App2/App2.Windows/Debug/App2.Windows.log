@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  MainPage.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+  XamlTypeInfo.g.cpp
+     Creating library d:\Projects\EcoBici\dev\GPSModule\TinyGPS-13\examples\simple_test\DeviceExample\App2\Debug\App2.Windows\App2.Windows.lib and object d:\Projects\EcoBici\dev\GPSModule\TinyGPS-13\examples\simple_test\DeviceExample\App2\Debug\App2.Windows\App2.Windows.exp
+  App2.Windows.vcxproj -> d:\Projects\EcoBici\dev\GPSModule\TinyGPS-13\examples\simple_test\DeviceExample\App2\Debug\App2.Windows\App2.Windows.exe

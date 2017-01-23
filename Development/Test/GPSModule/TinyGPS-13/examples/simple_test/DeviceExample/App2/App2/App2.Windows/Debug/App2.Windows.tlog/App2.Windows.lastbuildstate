@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|d:\Projects\EcoBici\dev\GPSModule\TinyGPS-13\examples\simple_test\DeviceExample\App2\|

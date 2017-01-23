@@ -1,0 +1,1 @@
+d:\Projects\EcoBici\dev\GPSModule\TinyGPS-13\examples\simple_test\DeviceExample\App2\App2\App2.Windows\App2.Windows.vcxproj;x86
